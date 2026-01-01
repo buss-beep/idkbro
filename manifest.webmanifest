@@ -1,0 +1,84 @@
+{
+  "name": "SuperTrip.Land",
+  "short_name": "SuperTrip.Land",
+  "id": "supertripland",
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "background_color": "#202020",
+  "theme_color": "#202020",
+  "description": "Multiplayer Trippy First Person Shooter",
+  "icons": [
+    {
+      "src": "https://supertrip.land/icons/icon-120x120.png",
+      "sizes": "120x120",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://supertrip.land/icons/icon-180x180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://supertrip.land/icons/icon-167x167.png",
+      "sizes": "167x167",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://supertrip.land/icons/icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://supertrip.land/icons/icon-80x80.png",
+      "sizes": "80x80",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://supertrip.land/icons/icon-58x58.png",
+      "sizes": "58x58",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://supertrip.land/icons/icon-87x87.png",
+      "sizes": "87x87",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://supertrip.land/icons/icon-76x76.png",
+      "sizes": "76x76",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://supertrip.land/icons/icon-114x114.png",
+      "sizes": "114x114",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://supertrip.land/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://supertrip.land/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://supertrip.land/icons/icon-1024x1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
